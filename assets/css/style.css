@@ -22,7 +22,7 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+header h1 span {
     color: #d9dcd6;
 }
 
@@ -52,7 +52,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+main {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -61,13 +61,11 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
+.search-engine-optimization img, .social-media-marketing img {
     margin-right: 25px;
 }
 
-.float-right {
-    float: right;
+.online-reputation-management img {
     margin-left: 25px;
 }
 
